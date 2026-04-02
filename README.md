@@ -1,4 +1,5 @@
-# 🌱 Smart Crop Recommendation System (AI-Powered)
+# 🌱 Smart Crop Recommendation System<img width="1691" height="999" alt="Screenshot 2026-04-02 171140" src="https://github.com/user-attachments/assets/52ae93f2-de4c-424d-8d1d-1dffc58f32d2" />
+
 
 An end-to-end intelligent agricultural decision support system that leverages machine learning to recommend the most suitable crop based on soil nutrients and real-time environmental conditions.
 
