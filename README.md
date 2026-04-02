@@ -2,13 +2,13 @@
 
 An end-to-end intelligent agricultural decision support system that leverages machine learning to recommend the most suitable crop based on soil nutrients and real-time environmental conditions.
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project implements a data-driven precision agriculture solution using supervised machine learning techniques. It analyzes critical agronomic parameters such as Nitrogen (N), Phosphorus (P), Potassium (K), temperature, humidity, soil pH, and rainfall to generate highly accurate crop recommendations.
 
 The system is designed to enhance productivity, minimize risk, and support sustainable farming practices by enabling informed decision-making.
 
-🧠 Core Capabilities
+# 🧠 Core Capabilities
 
 🌾 Intelligent crop prediction using ensemble learning
 
@@ -54,7 +54,7 @@ Confusion Matrix
 
 Precision, Recall, F1-score
 
-🔄 ML Pipeline Architecture:-
+# 🔄 ML Pipeline Architecture:-
 Data Collection & Cleaning
 
 Exploratory Data Analysis (EDA)
@@ -69,7 +69,7 @@ Model Evaluation
 
 Deployment via Gradio Interface
 
-Users provide the following inputs:
+# If Users provide the following inputs:
 
 Soil Nutrients: N, P, K
 
