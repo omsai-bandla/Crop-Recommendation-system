@@ -43,23 +43,40 @@ Model Evaluation
 Deployment via Gradio Interface
 
 Users provide the following inputs:
+
 Soil Nutrients: N, P, K
+
 Environmental Conditions: Temperature, Humidity
+
 Soil Parameter: pH Value
+
 Climate Factor: Rainfall
 
 ➡️ The system processes the inputs and instantly predicts the most suitable crop.
 
 🌍 Real-World Impact
+
 Supports precision agriculture
+
 Reduces crop failure risk
+
 Enhances yield and profitability
+
 Promotes data-driven farming decisions
+
 Useful for farmers, agri-tech startups, and policymakers
+
 🔮 Future Enhancements
+ 
  Integration with real-time weather APIs
+ 
  Fertilizer recommendation system (next module)
+ 
  Cloud deployment (AWS / GCP / Azure)
+ 
+ 
  Mobile application for farmers
+ 
  Integration with IoT-based soil sensors
+ 
  Crop yield prediction & analytics dashboard
