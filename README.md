@@ -31,7 +31,7 @@ Data Processing: Pandas, NumPy
 
 Machine Learning: Scikit-learn
 
-Model: Random Forest Classifier (Ensemble Learning)
+Model: Random Forest Classifier
 
 Visualization: Matplotlib / Seaborn
 
